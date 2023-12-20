@@ -2,11 +2,11 @@
 
 ---
 
-<center>
+<div align="center">
 
 ![iOS][ios link] ![macOS][macos link] ![GitHub][Github link] ![Swift][swift link]
 
-</center>
+</div>
 
 ---
 
