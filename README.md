@@ -16,12 +16,19 @@
 
 ## Kategorien 🎛️
 
-### TouriType
+| Accomdoations      | Kategorien         | Travel   | TouriType     | Extras     |
+| ------------------ | ------------------ | -------- | ------------- | ---------- |
+| Air B&B            | Meer               | Zug      | intro         | Mietwagen  |
+| Hotel              | Berge              | Auto     | extro         | Bustickets |
+| Resort             | Stadt              | Flugzeug | gemütlich     |
+| Camping/Stellplatz | Länlich            | Fahrrad  | abenteuerlich |
+|                    | Sehenswürdigkeiten | 
+|                    | Wandern            |
+|                    | Wüset              |
+|                    | Wald               |
 
-- introvertiert
-- extrovertiert
-- abenteuerlich
-- gemütlich
+
+
 
 [ios link]: https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
 [macos link]: https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0
