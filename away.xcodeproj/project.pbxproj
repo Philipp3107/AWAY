@@ -27,6 +27,7 @@
 		4E00BE692B322C5900380170 /* Changer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Changer.swift; sourceTree = "<group>"; };
 		4E00BE6B2B322CEA00380170 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		4E00BE6D2B32E95700380170 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4E00BE6E2B3309D500380170 /* SCHWARZWALD.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = SCHWARZWALD.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +85,7 @@
 			isa = PBXGroup;
 			children = (
 				4E00BE642B32008000380170 /* README_TEMP.md */,
+				4E00BE6E2B3309D500380170 /* SCHWARZWALD.md */,
 			);
 			path = Dokumentation;
 			sourceTree = "<group>";
